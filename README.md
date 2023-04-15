@@ -13,7 +13,8 @@ I picked up knowledge from the following books.
 | 2 |
 | 3 |
 
-:pushpin: This repository's code was created for coding exercises. Each code also expressly states the title, author, publisher, etc. of the book.   
+:pushpin: This repository's code was created for coding exercises.   
+:pushpin: Each code also expressly states the title, author, publisher, etc. of the book.   
 :pushpin: Copyright related matters will be corrected if you deliver them through commit. 
 <br/><br/>
 
