@@ -8,7 +8,7 @@
 I picked up knowledge from the following books.   
 
 | # | Title | Author | City of Publication | Publisher | Publication Date |
-| :--: | -- | -- | -- | -- | -- |
+| :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | 알고리즘 구현으로 배우는 선형대수 with Python | 장철원 | KOREA | 비제이퍼블릭 | 2021-12-24 |
 | 2 |
 | 3 |
